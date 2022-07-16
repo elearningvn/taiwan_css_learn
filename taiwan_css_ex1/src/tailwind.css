@@ -1,0 +1,4 @@
+/* 3 Cái chính của tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

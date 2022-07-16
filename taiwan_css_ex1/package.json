@@ -1,0 +1,14 @@
+{
+  "name": "taiwan_ex1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "taiwand": "tailwind build -i src/tailwind.css -o public/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
